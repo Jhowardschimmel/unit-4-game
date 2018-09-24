@@ -1,0 +1,10 @@
+body{
+    color: red;
+    background-color: lightblue;
+
+}
+
+#floatrightdiv {
+    float: right;
+}
+
